@@ -21,5 +21,5 @@ by a server that is not a valid Meter Validator are ignored.
 
 To install the Docker image, execute the following command on the host machine:
 ```shell
-bash <(wget -q -O - https://raw.githubusercontent.com/daveodwyer/metervalidatorbot-node-health-stats/development/node-health-monitor-installer.sh)
+bash <(wget -q -O - https://raw.githubusercontent.com/daveodwyer/metervalidatorbot-node-health-stats/production/node-health-monitor-installer.sh)
 ```
